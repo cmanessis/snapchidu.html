@@ -1,0 +1,35 @@
+
+
+
+
+
+/*Buttons*/
+
+.bigbutton {
+  font-size: 20px;
+  height:100px;
+  width: 25%;
+  position:absolute;
+  left:38%;
+  right:38%;
+  background-color: #1F3A93;
+}
+
+/*Containers*/
+
+.vidcontainer1{
+  margin: 0 auto;
+  margin-top: 200px;
+  margin-left: 50px;
+
+}
+
+/*Sections*/
+
+.row1{
+  width:1200px;
+  height: 250px;
+  background-color: #bdc3c7;
+
+
+}
